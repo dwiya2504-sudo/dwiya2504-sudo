@@ -27,5 +27,5 @@
 ---
 
 ### 📫 Kontak & Tautan
-- **LinkedIn:** [linkedin.com/in/username-anda](https://linkedin.com) 
+- **LinkedIn:** [linkedin.com/in/username-anda](www.linkedin.com/in/dwi-yanti-septiani-b15171384) 
 - **Dicoding:** [dicoding.com/users/dwi_yanti_septiani](https://www.dicoding.com/users/dwi_yanti_septiani)
