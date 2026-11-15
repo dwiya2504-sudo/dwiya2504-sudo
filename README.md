@@ -1,16 +1,31 @@
-## Hi there 👋
+# Halo, saya Dwi Yanti Septiani 👋
 
-<!--
-**dwiya2504-sudo/dwiya2504-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa S1 Sistem Informasi di **STMIK Widya Utama**  
+💻 **Full-Stack & AI Developer Intern** — Asah 2026 (powered by Dicoding)  
+📍 Banyumas, Jawa Tengah, Indonesia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Frontend:** HTML, CSS, JavaScript, React JS, Webpack
+- **Backend:** Node.js, Express.js, RESTful API, JWT
+- **Database:** MySQL, MariaDB, PostgreSQL
+- **Mobile & Desktop:** Android Studio (Kotlin/Java), Java Swing, VB.NET, C++
+- **Data & AI:** Python, Google Colab, Jupyter Notebook
+
+---
+
+### 🚀 Proyek Unggulan
+
+1. **Sistem Inventory & POS — Toko Obat Tanaman Ikhsan Tani**
+   - Aplikasi pengelolaan stok barang, pencarian produk, dan pencatatan transaksi penjualan berbasis web & database relasional.
+2. **Customer Service AI Chatbot — Toko Pak Usman**
+   - Model klasifikasi 6 *intent* layanan pelanggan (cek stok, harga, rekomendasi produk, pemesanan) menggunakan dataset sintetis terstruktur.
+3. **Arsitektur Database Multi-Warehouse**
+   - Perancangan skema database perusahaan untuk alur pembelian, penjualan, dan distribusi multi-gudang menggunakan MySQL.
+
+---
+
+### 📫 Kontak & Tautan
+- **LinkedIn:** [linkedin.com/in/username-anda](https://linkedin.com) *(ganti dengan link profil LinkedIn Anda)*
+- **Dicoding:** [dicoding.com/users/dwi_yanti_septiani](https://www.dicoding.com/users/dwi_yanti_septiani)
